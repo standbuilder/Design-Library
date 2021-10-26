@@ -1,2 +1,2 @@
 # StandBuilder.io
-Stannd Builder Components Library
+Sketchup Components Library
